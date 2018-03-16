@@ -1,0 +1,2 @@
+# Star-Wars-Survey
+This data was gotten from fivethirtyeight's repo. It was analyzed to provide insight about Star Wars first six movies and how highly peole rate them. It was discovered that Star Wars: Episode V The Empire Strikes Back was the best ranked and most watched series while Star Wars: Episode III Revenge of the Sith was ranked the least and also the least watched movie of the franchise. This conclusion is consistent across both male and female fans.
